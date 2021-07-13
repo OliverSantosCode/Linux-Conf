@@ -1,0 +1,20 @@
+# Install Programs .deb
+    - sudo dpkg -i [name program].deb
+#
+# Remove Programs .deb
+    - sudo dpkg -r [name program].deb
+#
+# Install Programs snap
+    - sudo apt install snapd
+    - sudo snap install [name program]
+#
+# Install Programs apt
+    - sudo apt-get install [name program]
+    - sudo add-apt-repository ppa:[name program]
+#
+# Install Key SSH
+    - ssh-keygen -t rsa -b 4096 -C "[your email]"
+    - Two [Press Enter]
+    - eval "$(ssh-agent -s)"
+    - ssh-add ~/.ssh/id_rsa
+#
