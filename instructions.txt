@@ -12,6 +12,10 @@
     - sudo apt-get install [name program]
     - sudo add-apt-repository ppa:[name program]
 #
+# Install Programs .run || .bin
+    - sudo ./[name program].run
+    - sudo ./[name program].bin
+#
 # Install Key SSH
     - ssh-keygen -t rsa -b 4096 -C "[your email]"
     - Two [Press Enter]
