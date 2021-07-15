@@ -22,3 +22,14 @@
     - eval "$(ssh-agent -s)"
     - ssh-add ~/.ssh/id_rsa
 #
+# Visual Studio Code
+    - Node.js Exec
+    - Material Icon Theme
+    - Color Highlight
+    - Bracket Pair Colorizer
+    - Omni Theme
+    - Live Server
+    - Font Fira Code
+    - ESLint
+    - Prettier Code formatter
+#
