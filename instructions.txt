@@ -2,7 +2,7 @@
     - sudo dpkg -i [name program].deb
 #
 # Remove Programs .deb
-    - sudo dpkg -r [name program].deb
+    - sudo dpkg -r [name program]
 #
 # Install Programs snap
     - sudo apt install snapd
