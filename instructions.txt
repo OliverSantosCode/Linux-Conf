@@ -33,3 +33,17 @@
     - ESLint
     - Prettier Code formatter
 #
+# Drivers NVIDIA
+    - lsmod | grep -i [driver]
+    - lscpi
+    - apt search [driver]
+    - cd /etc/modprobe.d
+    - touch nvidia-graphics-drivers.conf
+        blacklist nouveau
+        blacklist lbm-nouveau
+        alias nouveau off
+        alias lbm-nouveau off
+    - update-initramfs -u
+    - boot up
+    - lsmod | grep -i [driver]
+#
