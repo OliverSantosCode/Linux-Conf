@@ -1,28 +1,35 @@
-# Install Programs .deb
-    - sudo dpkg -i [name program].deb
-#
-# Remove Programs .deb
-    - sudo dpkg -r [name program]
-#
-# Install Programs snap
-    - sudo apt install snapd
-    - sudo snap install [name program]
-#
-# Install Programs apt
-    - sudo apt-get install [name program]
-    - sudo add-apt-repository ppa:[name program]
-#
-# Install Programs .run || .bin
-    - sudo ./[name program].run
-    - sudo ./[name program].bin
-#
-# Install Key SSH
-    - ssh-keygen -t rsa -b 4096 -C "[your email]"
-    - Two [Press Enter]
-    - eval "$(ssh-agent -s)"
-    - ssh-add ~/.ssh/id_rsa
-#
-# Visual Studio Code
+### Install Programs _.deb_
+~~~bash
+    ~$ sudo dpkg -i [name program].deb
+~~~
+### Remove Programs _.deb_
+~~~bash
+    ~$ sudo dpkg -r [name program]
+~~~
+### Install Programs _snap_
+~~~bash
+    ~$ sudo apt install snapd
+    ~$ sudo snap install [name program]
+~~~
+### Install Programs _apt_
+~~~bash
+    ~$ sudo apt-get install [name program]
+    ~$ sudo add-apt-repository ppa:[name program]
+~~~
+### Install Programs _.run_ || _.bin_
+~~~bash
+    ~$ sudo ./[name program].run
+    ~$ sudo ./[name program].bin
+~~~
+### Install Key _SSH_
+~~~bash
+    ~$ ssh-keygen -t rsa -b 4096 -C "[your email]"
+    ~$ [Press Enter] [Press Enter]
+    ~$ eval "$(ssh-agent -s)"
+    ~$ ssh-add ~/.ssh/id_rsa
+~~~
+### Visual Studio _Code_
+~~~bash
     - Node.js Exec
     - Material Icon Theme
     - Color Highlight
@@ -32,18 +39,22 @@
     - Font Fira Code
     - ESLint
     - Prettier Code formatter
-#
-# Drivers NVIDIA
-    - lsmod | grep -i [driver]
-    - lscpi
-    - apt search [driver]
-    - cd /etc/modprobe.d
-    - touch nvidia-graphics-drivers.conf
+    - Advanced New File
+    - File Utils
+    - Font Cascadia Code
+~~~
+### Drivers _NVIDIA_
+~~~bash
+    ~$ lsmod | grep -i [driver]
+    ~$ lscpi
+    ~$ apt search [driver]
+    ~$ cd /etc/modprobe.d
+    ~$ touch nvidia-graphics-drivers.conf
         blacklist nouveau
         blacklist lbm-nouveau
         alias nouveau off
         alias lbm-nouveau off
-    - update-initramfs -u
-    - boot up
-    - lsmod | grep -i [driver]
-#
+    ~$ update-initramfs -u
+    ~$ boot up
+    ~$ lsmod | grep -i [driver]
+~~~
