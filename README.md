@@ -16,8 +16,8 @@
 <details>
    <summary><strong>Emphasis to Text</strong></summary>
 
-   **Bold**
-   _Italic_
+   **Bold**  
+   _Italic_  
    **_Italic Bold_**
 </details>
 
@@ -94,8 +94,8 @@
    <summary><strong>Tables</strong></summary>
 
  First Header |
- -------------
- Firt line |
+ -------------|
+ Firt line    |
 
   First Header | Second Header
  :------------ | -------------:
