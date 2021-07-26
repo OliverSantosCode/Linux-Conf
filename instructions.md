@@ -42,6 +42,7 @@
     - Advanced New File
     - File Utils
     - Font Cascadia Code
+    - Live Share - Audio - Extention
 ~~~
 ### Drivers _NVIDIA_
 ~~~bash
