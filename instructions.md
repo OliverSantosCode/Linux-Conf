@@ -43,6 +43,8 @@
     - File Utils
     - Font Cascadia Code
     - Live Share - Audio - Extention
+    - Auto Rename Tag
+    - Quokka
 ~~~
 ### Drivers _NVIDIA_
 ~~~bash
