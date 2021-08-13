@@ -1,35 +1,48 @@
 ### Install Programs _.deb_
-~~~bash
+
+```bash
     ~$ sudo dpkg -i [name program].deb
-~~~
+```
+
 ### Remove Programs _.deb_
-~~~bash
+
+```bash
     ~$ sudo dpkg -r [name program]
-~~~
+```
+
 ### Install Programs _snap_
-~~~bash
+
+```bash
     ~$ sudo apt install snapd
     ~$ sudo snap install [name program]
-~~~
+```
+
 ### Install Programs _apt_
-~~~bash
+
+```bash
     ~$ sudo apt-get install [name program]
     ~$ sudo add-apt-repository ppa:[name program]
-~~~
+```
+
 ### Install Programs _.run_ || _.bin_
-~~~bash
+
+```bash
     ~$ sudo ./[name program].run
     ~$ sudo ./[name program].bin
-~~~
+```
+
 ### Install Key _SSH_
-~~~bash
+
+```bash
     ~$ ssh-keygen -t rsa -b 4096 -C "[your email]"
     ~$ [Press Enter] [Press Enter]
     ~$ eval "$(ssh-agent -s)"
     ~$ ssh-add ~/.ssh/id_rsa
-~~~
+```
+
 ### Visual Studio _Code_
-~~~bash
+
+```bash
     - Node.js Exec
     - Material Icon Theme
     - Color Highlight
@@ -45,9 +58,14 @@
     - Live Share - Audio - Extention
     - Auto Rename Tag
     - Quokka
-~~~
+    - VSCode-pdf
+    - Python - Pylance
+    - Jupyter
+```
+
 ### Drivers _NVIDIA_
-~~~bash
+
+```bash
     ~$ lsmod | grep -i [driver]
     ~$ lscpi
     ~$ apt search [driver]
@@ -60,4 +78,4 @@
     ~$ update-initramfs -u
     ~$ boot up
     ~$ lsmod | grep -i [driver]
-~~~
+```
