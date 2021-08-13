@@ -79,3 +79,17 @@
     ~$ boot up
     ~$ lsmod | grep -i [driver]
 ```
+
+### GRUB - THEMES
+
+```bash
+    /themes
+        /ubuntu
+            /icons
+            - icon.png 32x32
+        - background.jpg
+        - fonts.pf2
+        - menu.png
+        - line.png
+        - theme.txt
+```
