@@ -93,3 +93,13 @@
         - line.png
         - theme.txt
 ```
+
+### GRUB RESCUE - INITRAMFS
+
+```bash
+    ~$ sudo fdisk -l
+    - /dev/sda5   Linux
+    ~$ sudo mount /dev/sda5 /mount
+    ~$ sudo grub-install --root-directory=/mnt /dev/sda5
+    initramfs> fsck -y /dev/sda5
+```
