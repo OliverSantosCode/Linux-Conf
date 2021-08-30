@@ -99,7 +99,7 @@
 ```bash
     ~$ sudo fdisk -l
     - /dev/sda5   Linux
-    ~$ sudo mount /dev/sda5 /mount
-    ~$ sudo grub-install --root-directory=/mnt /dev/sda5
+    ~$ sudo mount /dev/sda5 /mnt
+    ~$ sudo grub-install --root-directory=/mnt /dev/sda
     initramfs> fsck -y /dev/sda5
 ```
