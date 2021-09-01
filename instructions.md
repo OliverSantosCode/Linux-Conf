@@ -97,6 +97,11 @@
 ### GRUB RESCUE - INITRAMFS
 
 ```bash
+    grub rescue> set root=(hd0,msdos5)
+    grub rescue> set prefix=(hd0,msdos5)/dev/sda5
+    grub rescue> insmod normal
+    grub rescue> normal
+    
     ~$ sudo fdisk -l
     - /dev/sda5   Linux
     ~$ sudo mount /dev/sda5 /mnt
