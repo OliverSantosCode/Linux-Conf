@@ -108,3 +108,10 @@
     ~$ sudo grub-install --root-directory=/mnt /dev/sda
     initramfs> fsck -y /dev/sda5
 ```
+### Exercism
+
+```bash
+    ~$ sudo snap install exercism
+    ~$ exercism version
+    ~$ exercism configure --token=[your token]
+```
