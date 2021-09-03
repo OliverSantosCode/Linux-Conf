@@ -61,6 +61,7 @@
     - VSCode-pdf
     - Python - Pylance
     - Jupyter
+    _ Markdown Preview Enhanced
 ```
 
 ### Drivers _NVIDIA_
