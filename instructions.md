@@ -109,6 +109,10 @@
     ~$ sudo grub-install --root-directory=/mnt /dev/sda
     initramfs> fsck -y /dev/sda5
 ```
+### DEL GRUB - RESTORE WINDOWS
+```bash
+   >bootsect /nt60 all/force /mbr
+```
 ### Exercism
 
 ```bash
