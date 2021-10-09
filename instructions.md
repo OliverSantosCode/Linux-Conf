@@ -119,4 +119,5 @@
     ~$ sudo snap install exercism
     ~$ exercism version
     ~$ exercism configure --token=[your token]
+    ~$ exercism download --exercise=[exercise] --track=[language]
 ```
