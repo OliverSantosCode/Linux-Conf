@@ -120,4 +120,5 @@
     ~$ exercism version
     ~$ exercism configure --token=[your token]
     ~$ exercism download --exercise=[exercise] --track=[language]
+    ~$ exercism submit [path]
 ```
