@@ -62,6 +62,7 @@
     - Python - Pylance
     - Jupyter
     - Markdown Preview Enhanced
+    - Code Spell Checker
 ```
 
 ### Drivers _NVIDIA_
