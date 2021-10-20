@@ -16,6 +16,10 @@
     ~$ sudo apt install snapd
     ~$ sudo snap install [name program]
 ```
+### Remove Programs _snap_
+```bash
+    ~$ sudo snap remove [name program]
+```
 
 ### Install Programs _apt_
 
