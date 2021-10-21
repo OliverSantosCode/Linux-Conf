@@ -27,6 +27,10 @@
     ~$ sudo apt-get install [name program]
     ~$ sudo add-apt-repository ppa:[name program]
 ```
+### Remove Programs _apt_
+```bash
+    ~$ sudo apt-get remove --purge [name program]
+```
 
 ### Install Programs _.run_ || _.bin_
 
