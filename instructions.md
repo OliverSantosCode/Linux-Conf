@@ -16,6 +16,7 @@
     ~$ sudo apt install snapd
     ~$ sudo snap install [name program]
 ```
+
 ### Remove Programs _snap_
 ```bash
     ~$ sudo snap remove [name program]
@@ -27,16 +28,18 @@
     ~$ sudo apt-get install [name program]
     ~$ sudo add-apt-repository ppa:[name program]
 ```
+
 ### Remove Programs _apt_
 ```bash
     ~$ sudo apt-get remove --purge [name program]
 ```
 
-### Install Programs _.run_ || _.bin_
+### Install Programs _.run_ || _.bin_ || _.sh_
 
 ```bash
     ~$ sudo ./[name program].run
     ~$ sudo ./[name program].bin
+    ~$ sudo ./[name program].sh
 ```
 
 ### Install Key _SSH_
@@ -118,10 +121,12 @@
     ~$ sudo grub-install --root-directory=/mnt /dev/sda
     initramfs> fsck -y /dev/sda5
 ```
+
 ### DEL GRUB - RESTORE WINDOWS
 ```bash
    >bootsect /nt60 all/force /mbr
 ```
+
 ### Exercism
 
 ```bash
