@@ -42,6 +42,12 @@
     ~$ sudo ./[name program].sh
 ```
 
+### Remove Programs _.run_ || _.bin_ || _.sh_
+
+```bash
+    ~$ sudo cd /[path]/$ ./uninstall
+```
+
 ### Install Key _SSH_
 
 ```bash
