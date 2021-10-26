@@ -46,6 +46,7 @@
 
 ```bash
     ~$ sudo cd /[path]/$ ./uninstall
+    ~$ sudo ./[name program].bin --uninstall
 ```
 
 ### Install Key _SSH_
