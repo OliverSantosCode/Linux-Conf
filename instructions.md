@@ -144,3 +144,9 @@
     ~$ exercism download --exercise=[exercise] --track=[language]
     ~$ exercism submit [path]
 ```
+
+### Node JScript
+
+```bash
+    ~$ yarn init - y
+```
