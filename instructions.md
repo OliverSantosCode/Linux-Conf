@@ -149,4 +149,5 @@
 
 ```bash
     ~$ yarn init - y
+    ~$ yarn tsc --init
 ```
