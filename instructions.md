@@ -153,3 +153,9 @@
     ~$ yarn init - y
     ~$ yarn tsc --init
 ```
+
+### Git
+
+```bash
+    ~$ git init
+```
