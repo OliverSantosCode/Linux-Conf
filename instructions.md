@@ -158,4 +158,5 @@
 
 ```bash
     ~$ git init
+    ~$ git add [name file]
 ```
