@@ -163,4 +163,5 @@
     ~$ git commit -m "[message]"
     ~$ git push
     ~$ git rm --cache [name file]
+    ~$ git pull
 ```
