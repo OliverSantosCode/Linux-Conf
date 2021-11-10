@@ -164,4 +164,5 @@
     ~$ git push
     ~$ git rm --cache [name file]
     ~$ git pull
+    ~$ git branch
 ```
