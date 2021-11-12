@@ -161,6 +161,7 @@
     ~$ git add [name file]
     ~$ git add .
     ~$ git status
+    ~$ git log
     ~$ git commit -m "[message]"
     ~$ git push
     ~$ git rm --cache [name file]
