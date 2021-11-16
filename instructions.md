@@ -168,4 +168,5 @@
     ~$ git pull
     ~$ git branch
     ~$ git branch [name]
+    ~$ git checkout [name]
 ```
