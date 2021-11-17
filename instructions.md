@@ -169,4 +169,5 @@
     ~$ git branch
     ~$ git branch [name]
     ~$ git checkout [name]
+    ~$ git branch [name] --delete
 ```
