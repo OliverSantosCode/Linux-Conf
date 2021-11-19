@@ -135,6 +135,11 @@
    >bootsect /nt60 all/force /mbr
 ```
 
+### NUM KEY WINDOWS
+```bash
+    C:> wmic path softwareLicensingService get OA3xOriginalProductKey
+```
+
 ### Exercism
 
 ```bash
