@@ -159,6 +159,7 @@
     ~$ yarn tsc --init
     ~$ yarn global [name]
     ~$ yarn add [name]
+    ~$ yarn add [name] -D
 ```
 
 ### Git
