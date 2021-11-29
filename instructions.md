@@ -140,6 +140,12 @@
     C:> wmic path softwareLicensingService get OA3xOriginalProductKey
 ```
 
+### LINUX
+
+```bash
+    ~$ sudo apt --fix-broken install
+```
+
 ### Exercism
 
 ```bash
