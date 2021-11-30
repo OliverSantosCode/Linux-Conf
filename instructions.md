@@ -18,6 +18,7 @@
 ```
 
 ### Remove Programs _snap_
+
 ```bash
     ~$ sudo snap remove [name program]
 ```
@@ -30,6 +31,7 @@
 ```
 
 ### Remove Programs _apt_
+
 ```bash
     ~$ sudo apt-get remove --purge [name program]
 ```
@@ -131,11 +133,13 @@
 ```
 
 ### DEL GRUB - RESTORE WINDOWS
+
 ```bash
    >bootsect /nt60 all/force /mbr
 ```
 
 ### NUM KEY WINDOWS
+
 ```bash
     C:> wmic path softwareLicensingService get OA3xOriginalProductKey
 ```
