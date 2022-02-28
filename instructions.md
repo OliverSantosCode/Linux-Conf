@@ -190,3 +190,10 @@
     ~$ git checkout [name]
     ~$ git branch [name] --delete
 ```
+
+
+### Remembered Links
+
+```bash
+   - https://www.typingclub.com
+```
