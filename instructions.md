@@ -173,6 +173,18 @@
     ~$ yarn add [name] -D
 ```
 
+### Node JScript NVM
+
+```bash
+    ~$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+    ~$ source ~/.bashrc
+    ~$ nvm list-remote
+    ~$ nvm install [--version]
+    ~$ nvm use [--version]
+    ~$ node -v
+    ~$ npm -v
+```
+
 ### Git
 
 ```bash
@@ -190,7 +202,6 @@
     ~$ git checkout [name]
     ~$ git branch [name] --delete
 ```
-
 
 ### Remembered Links
 
