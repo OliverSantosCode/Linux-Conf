@@ -61,6 +61,15 @@
     ~$ ssh-add ~/.ssh/id_rsa
 ```
 
+### Install Key Signing _GPG_
+
+```bash
+    ~$ gpg --list-secret-keys --keyid-format=long
+    ~$ gpg --full-generate-key
+    ~$ gpg --list-secret-keys --keyid-format=long
+    ~$ gpg --armor --export [key number]
+```
+
 ### Visual Studio _Code_
 
 ```bash
@@ -201,6 +210,7 @@
     ~$ git branch [name]
     ~$ git checkout [name]
     ~$ git branch [name] --delete
+    ~$ git config --global user.signingKey [key number]
 ```
 
 ### Remembered Links
