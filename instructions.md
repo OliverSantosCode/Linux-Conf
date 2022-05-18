@@ -55,7 +55,8 @@
 ### Install Key _SSH_
 
 ```bash
-    ~$ ssh-keygen -t rsa -b 4096 -C "[your email]"
+    ~$ ssh-keygen -t rsa -b 4096 -C "[your email]" or 
+    ~$ ssh-keygen -t ed25519 -C "[your email]"
     ~$ [Press Enter] [Press Enter]
     ~$ eval "$(ssh-agent -s)"
     ~$ ssh-add ~/.ssh/id_rsa
