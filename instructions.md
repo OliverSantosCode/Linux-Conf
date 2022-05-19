@@ -217,6 +217,9 @@
 ### Remembered Links
 
 ```bash
-   - https://www.typingclub.com
-   - https://www.tutorialspoint.com/tutorialslibrary.htm
+    · TYPING:
+        - https://www.typingclub.com
+    · DEVELOPMENT:
+        - https://www.tutorialspoint.com/tutorialslibrary.htm
+        - https://exercism.org/
 ```
