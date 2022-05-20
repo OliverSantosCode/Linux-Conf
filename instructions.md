@@ -222,4 +222,6 @@
     · DEVELOPMENT:
         - https://www.tutorialspoint.com/tutorialslibrary.htm
         - https://exercism.org/
+    · ICONS:
+        - https://boxicons.com/
 ```
