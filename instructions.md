@@ -55,7 +55,7 @@
 ### Install Key _SSH_
 
 ```bash
-    ~$ ssh-keygen -t rsa -b 4096 -C "[your email]" or 
+    ~$ ssh-keygen -t rsa -b 4096 -C "[your email]" or
     ~$ ssh-keygen -t ed25519 -C "[your email]"
     ~$ [Press Enter] [Press Enter]
     ~$ eval "$(ssh-agent -s)"
@@ -134,7 +134,7 @@
     grub rescue> set prefix=(hd0,msdos5)/dev/sda5
     grub rescue> insmod normal
     grub rescue> normal
-    
+
     ~$ sudo fdisk -l
     - /dev/sda5   Linux
     ~$ sudo mount /dev/sda5 /mnt
@@ -173,7 +173,7 @@
 ### Node JScript
 
 ```bash
-    ~$ curl -fsSL https://deb.nodesource.com/setup_lts.x | 
+    ~$ curl -fsSL https://deb.nodesource.com/setup_lts.x |
         sudo -E bash - sudo apt-get install -y nodejs
     ~$ yarn
     ~$ yarn init - y
@@ -224,4 +224,5 @@
         - https://exercism.org/
     · ICONS:
         - https://boxicons.com/
+        - https://ant.design/
 ```
