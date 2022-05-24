@@ -221,6 +221,7 @@
         - https://www.typingclub.com
     · DEVELOPMENT:
         - https://www.tutorialspoint.com/tutorialslibrary.htm
+        - https://vitejs.dev/guide/
         - https://exercism.org/
     · ICONS:
         - https://boxicons.com/
