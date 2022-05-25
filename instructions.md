@@ -226,4 +226,5 @@
     · ICONS:
         - https://boxicons.com/
         - https://ant.design/
+        - https://phosphoricons.com/
 ```
