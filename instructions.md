@@ -227,4 +227,6 @@
         - https://boxicons.com/
         - https://ant.design/
         - https://phosphoricons.com/
+    · ANIMATION:
+        - https://scrollrevealjs.org/
 ```
