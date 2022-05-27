@@ -223,6 +223,7 @@
         - https://www.tutorialspoint.com/tutorialslibrary.htm
         - https://vitejs.dev/guide/
         - https://exercism.org/
+        - https://flexboxfroggy.com/
     · ICONS:
         - https://boxicons.com/
         - https://ant.design/
