@@ -222,6 +222,7 @@
     · DEVELOPMENT:
         - https://www.tutorialspoint.com/tutorialslibrary.htm
         - https://vitejs.dev/guide/
+        - https://www.prisma.io/
         - https://exercism.org/
         - https://flexboxfroggy.com/
     · ICONS:
