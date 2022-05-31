@@ -221,6 +221,7 @@
         - https://www.typingclub.com
     · DEVELOPMENT:
         - https://www.tutorialspoint.com/tutorialslibrary.htm
+        - https://web.dev/
         - https://vitejs.dev/guide/
         - https://www.prisma.io/
         - https://exercism.org/
