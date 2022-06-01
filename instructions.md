@@ -230,6 +230,7 @@
         - https://boxicons.com/
         - https://ant.design/
         - https://phosphoricons.com/
+        - https://remixicon.com/
     · ANIMATION:
         - https://scrollrevealjs.org/
 ```
