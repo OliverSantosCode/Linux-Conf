@@ -224,6 +224,7 @@
         - https://web.dev/
         - https://vitejs.dev/guide/
         - https://www.prisma.io/
+        - https://jestjs.io/pt-BR/
         - https://exercism.org/
         - https://flexboxfroggy.com/
     · ICONS:
