@@ -228,6 +228,7 @@
         - https://railway.app/
         - https://jwt.io/
         - https://realm.io/
+        - https://moti.fyi/
         - https://exercism.org/
         - https://flexboxfroggy.com/
     · ICONS:
