@@ -223,6 +223,7 @@
         - https://www.tutorialspoint.com/tutorialslibrary.htm
         - https://web.dev/
         - https://devdocs.io/
+        - https://www.freecodecamp.org/learn/
         - https://vitejs.dev/guide/
         - https://www.prisma.io/
         - https://jestjs.io/pt-BR/
