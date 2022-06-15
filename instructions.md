@@ -235,6 +235,7 @@
         - https://randomuser.me/
         - https://exercism.org/
         - https://flexboxfroggy.com/
+        - https://skillshop.exceedlms.com/student/catalog
     · ICONS:
         - https://boxicons.com/
         - https://ant.design/
