@@ -226,6 +226,7 @@
         - https://javascript.info/
         - https://www.freecodecamp.org/learn/
         - https://vitejs.dev/guide/
+        - https://nativebase.io/
         - https://www.prisma.io/
         - https://jestjs.io/pt-BR/
         - https://railway.app/
