@@ -228,6 +228,7 @@
         - https://vitejs.dev/guide/
         - https://nativebase.io/
         - https://www.prisma.io/
+        - https://graphql.org/
         - https://jestjs.io/pt-BR/
         - https://railway.app/
         - https://jwt.io/
