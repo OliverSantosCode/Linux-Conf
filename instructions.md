@@ -238,6 +238,7 @@
         - https://exercism.org/
         - https://flexboxfroggy.com/
         - https://skillshop.exceedlms.com/student/catalog
+        - https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
     · ICONS:
         - https://boxicons.com/
         - https://ant.design/
