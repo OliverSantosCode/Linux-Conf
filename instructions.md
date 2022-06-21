@@ -235,6 +235,7 @@
         - https://realm.io/
         - https://moti.fyi/
         - https://randomuser.me/
+        - https://mailtrap.io/
         - https://exercism.org/
         - https://flexboxfroggy.com/
         - https://skillshop.exceedlms.com/student/catalog
