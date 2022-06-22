@@ -237,6 +237,7 @@
         - https://randomuser.me/
         - https://mailtrap.io/
         - https://exercism.org/
+        - https://grasshopper.app/pt_br/
         - https://flexboxfroggy.com/
         - https://skillshop.exceedlms.com/student/catalog
         - https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
