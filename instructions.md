@@ -220,6 +220,7 @@
     · TYPING:
         - https://www.typingclub.com
     · DEVELOPMENT:
+        - https://www.w3schools.com/
         - https://www.tutorialspoint.com/tutorialslibrary.htm
         - https://web.dev/
         - https://devdocs.io/
