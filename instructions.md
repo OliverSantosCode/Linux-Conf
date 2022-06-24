@@ -222,6 +222,7 @@
     · DEVELOPMENT:
         - https://www.w3schools.com/
         - https://www.tutorialspoint.com/tutorialslibrary.htm
+        - https://www.tutorialsteacher.com/
         - https://web.dev/
         - https://devdocs.io/
         - https://javascript.info/
