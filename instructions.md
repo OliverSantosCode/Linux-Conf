@@ -220,6 +220,8 @@
     · TYPING:
         - https://www.typingclub.com
     · DEVELOPMENT:
+            PAID OUT:
+                - https://www.labenu.com.br/
         - https://www.w3schools.com/
         - https://www.tutorialspoint.com/tutorialslibrary.htm
         - https://www.tutorialsteacher.com/
