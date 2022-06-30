@@ -222,6 +222,7 @@
     · DEVELOPMENT:
             PAID OUT:
                 - https://www.labenu.com.br/
+                - https://www.betrybe.com/
         - https://www.w3schools.com/
         - https://www.tutorialspoint.com/tutorialslibrary.htm
         - https://www.tutorialsteacher.com/
