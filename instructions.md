@@ -223,6 +223,7 @@
             PAID OUT:
                 - https://www.labenu.com.br/
                 - https://www.betrybe.com/
+                - https://www.alura.com.br/
         - https://vanhack.com/english-for-tech-talent
         - https://www.dio.me/
         - https://www.w3schools.com/
