@@ -225,6 +225,7 @@
                 - https://www.betrybe.com/
                 - https://www.alura.com.br/
         - https://vanhack.com/english-for-tech-talent
+        - https://blog.rocketseat.com.br/
         - https://www.dio.me/
         - https://www.w3schools.com/
         - https://www.tutorialspoint.com/tutorialslibrary.htm
