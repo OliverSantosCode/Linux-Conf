@@ -221,6 +221,7 @@
         - https://www.typingclub.com
     · DEVELOPMENT:
             PAID OUT:
+                - https://www.rocketseat.com.br/
                 - https://www.labenu.com.br/
                 - https://www.betrybe.com/
                 - https://www.alura.com.br/
