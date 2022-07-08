@@ -253,6 +253,8 @@
         - https://flexboxfroggy.com/
         - https://skillshop.exceedlms.com/student/catalog
         - https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+        · SECURITY:
+            - https://www.hacker101.com/
     · ICONS:
         - https://boxicons.com/
         - https://ant.design/
