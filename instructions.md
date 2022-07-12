@@ -256,6 +256,7 @@
         · SECURITY:
             - https://www.hacker101.com/
             - https://www.bugcrowd.com/
+            - https://www.intigriti.com/
     · ICONS:
         - https://boxicons.com/
         - https://ant.design/
