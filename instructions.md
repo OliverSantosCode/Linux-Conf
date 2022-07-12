@@ -255,6 +255,7 @@
         - https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
         · SECURITY:
             - https://www.hacker101.com/
+            - https://www.bugcrowd.com/
     · ICONS:
         - https://boxicons.com/
         - https://ant.design/
