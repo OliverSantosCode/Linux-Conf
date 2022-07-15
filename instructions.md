@@ -236,6 +236,7 @@
         - https://devdocs.io/
         - https://javascript.info/
         - https://www.freecodecamp.org/learn/
+        - https://www.mindmeister.com/pt
         - https://vitejs.dev/guide/
         - https://nativebase.io/
         - https://www.prisma.io/
