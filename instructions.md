@@ -220,7 +220,7 @@
     · TYPING:
         - https://www.typingclub.com
     · DEVELOPMENT:
-            PAID OUT:
+           · PAID OUT:
                 - https://www.rocketseat.com.br/
                 - https://www.labenu.com.br/
                 - https://www.betrybe.com/
@@ -260,6 +260,8 @@
             - https://www.bugcrowd.com/
             - https://www.intigriti.com/
             - https://www.bughunt.com.br/
+               · TRAINING:
+                   - https://tryhackme.com/
     · ICONS:
         - https://boxicons.com/
         - https://ant.design/
